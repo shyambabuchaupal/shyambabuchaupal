@@ -1,21 +1,21 @@
-# Hi, I'm Shyam Kumar 👋
+# Hi, I'm Shyambabu Chaupal 👋
 
-🚀 Full Stack Developer | 4+ Years Experience  
+🚀 **Full Stack Developer | 4+ Years Experience**  
 ⚡ React.js | Next.js | Supabase | Strapi | Docker | CI/CD | AWS App Runner  
 
 ---
 
-## 💼 Professional Summary
+## 💼 Professional Experience
 
-- Contributed to 29+ organization repositories  
-- Worked on POS & Laundry SaaS platforms  
-- Deployed production applications using AWS App Runner  
-- Implemented CI/CD pipelines using GitHub Actions  
-- Integrated Supabase authentication & PostgreSQL database  
+- Contributed to **29+ repositories** in organization environment  
+- Built and maintained **POS & Laundry SaaS platforms**  
+- Deployed multiple production applications using **AWS App Runner**  
+- Designed and implemented **CI/CD pipelines with GitHub Actions**  
+- Integrated **Supabase Auth & PostgreSQL database systems**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
 **Frontend:** React.js, Next.js, Tailwind CSS  
 **Backend:** Supabase, Strapi CMS  
@@ -24,14 +24,14 @@
 
 ---
 
-## 📌 Currently Building
+## 📌 Focus Area (2026)
 
-- Production-grade SaaS demo system  
-- Dockerized Next.js application  
-- CI/CD integrated deployment pipeline  
+- Building production-grade SaaS applications  
+- Strengthening DevOps & Cloud deployment skills  
+- Preparing for MNC-level system design & architecture  
 
 ---
 
-## 🎯 Career Goal 2026
+## 📫 Let's Connect
 
-Transition into MNC as Full Stack / DevOps Engineer 🚀
+Open to Full Stack / DevOps opportunities 🚀
